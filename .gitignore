@@ -1,4 +1,5 @@
 .local_history
 
 *.sif*
-*.zip
+*.zip*
+.*.sw?
